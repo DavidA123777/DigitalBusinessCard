@@ -40,9 +40,7 @@ const Main = () =>{
                 <p className="About">About</p>
                 <p className="about-text">
                     I recently graduated with a Bachelor's Degree in Computer Science from Hunter College in January 2024. 
-                    While at Hunter College, I developed my skills in Software Engineering through my mentorship at Google. 
-                    I have experience as a UI/UX developer Intern at Students Who Code, and experience working as a project 
-                    manager for NASA's L'SPACE NPWEE Academy. I am currently developing my skills in Power BI, SQL, and Python 
+                    I am currently developing my skills in Power BI, SQL, and Python 
                     to further grow as a Data Analyst.
                 </p>
                 <p className="Interests">Interests</p>
